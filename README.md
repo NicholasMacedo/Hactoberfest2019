@@ -62,3 +62,8 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Nick
+[NicholasMacedo](https://github.com/NicholasMacedo/)
+> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. - Linus Torvalds
+---
+
